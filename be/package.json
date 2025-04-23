@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsc -b && node dist/index.js",
-    "build": "tsc"
+    "build": "echo 'No build step needed'"
   },
   "keywords": [],
   "author": "",
